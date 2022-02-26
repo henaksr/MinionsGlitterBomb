@@ -13,6 +13,10 @@ public class Sensor {
 	private String version;
 	private String manufacturer;
 	
+	/**
+	 * Sensors activates the pneumatic System
+	 */
+	
 	private void activatePneumaticSystem()
 	{
 		

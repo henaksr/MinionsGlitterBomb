@@ -15,11 +15,17 @@ public class Battery {
 	private double price;
 	private String span;
 	
+	/**
+	 * Battery receives the charge.
+	 *
+	 */
 	private void charge()
 	{
 		//Receives the charge.
 	}
-	
+	/**
+	 *  Battery provides power to other components
+	 */
 	private void powerComponents()
 	{
 		//Provides power to other components

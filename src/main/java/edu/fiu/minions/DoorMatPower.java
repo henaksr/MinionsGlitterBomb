@@ -12,6 +12,10 @@ public class DoorMatPower {
 	private String color;
 	private String capacity;
 	
+	/**
+	 * DoorMatPower supplies power to the GlitterBomb.
+	 */
+	
 	private void suppliesPower()
 	{
 		// It supplies power to the GlitterBomb.

@@ -14,18 +14,30 @@ public class PneumaticSystem {
 	private String motion;
 	private String glue;
 	
+	/**
+	 * PneumaticSystem activates the Flying Wheel
+	 */
+	
 	private void activateFlyingWheel()
 	{
 		//Activates the Flying Wheel
 	}
+	
+	/**
+	 * PneumaticSystem activates the GlitterCup
+	 */
 	
 	private void activateGlitterCup()
 	{
 		//Activates the GlitterCup
 	}
 	
-	private void sprayGlue()
+	/**
+	 * PneumaticSystem sprays paint on the thief
+	 */
+	
+	private void sprayPaint()
 	{
-		//Sprays Glue on the thief
+		//Sprays Paint on the thief
 	}
 }

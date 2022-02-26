@@ -12,10 +12,18 @@ public class VideoCamera extends Mobile {
 	private String lens;
 	private String microphone;
 	
+	/**
+	 * VideoCamera records the video
+	 */
+	
 	private void recordVideo()
 	{
 		// Records the video
 	}
+	
+	/**
+	 * VideoCamera records the audio
+	 */
 	
 	private void recordAudio()
 	{

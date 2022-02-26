@@ -12,10 +12,17 @@ public class LED {
 	private String colorMode;
 	private String span;
 	
+	/**
+	 * LED flashes different modes of lights.
+	 */
 	private void turnOn()
 	{
-		// Flashes differnt modes of lights.
+		// Flashes different modes of lights.
 	}
+	
+	/**
+	 *  LED switches Off the Lights.
+	 */
 	
 	private void turnOff()
 	{
